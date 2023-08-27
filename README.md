@@ -1,4 +1,4 @@
-# Hey, I'm Daniel Dang 👋
+# 👋 Hey, I'm Daniel Dang
 
 # 💻 About Me
 My name is Daniel. I am currently a junior working towards my Bachelor of Science degree in Computer Science at [Florida State University (Tallahassee)](https://www.cs.fsu.edu/academics/undergraduate-programs/bscs/). My interests include software engineering, server management, machine learning, and scripting/automation. I have proficient skills in C++, C#, and .NET, which I use to create various projects and applications for academic and personal purposes. My goal is to become a software engineer who can design, develop, and deploy innovative, meaningful, and user-friendly solutions for various domains and platforms.
