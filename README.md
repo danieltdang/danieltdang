@@ -1,17 +1,20 @@
-# 👋 Hey, I'm Daniel Dang
+# 👋 Hey, I'm Daniel Dang 
 
 # 💻 About Me
+
 My name is Daniel. I am currently a junior working towards my Bachelor of Science degree in Computer Science at [Florida State University (Tallahassee)](https://www.cs.fsu.edu/academics/undergraduate-programs/bscs/). My interests include software engineering, server management, machine learning, and scripting/automation. I have proficient skills in C++, C#, and .NET, which I use to create various projects and applications for academic and personal purposes. My goal is to become a software engineer who can design, develop, and deploy innovative, meaningful, and user-friendly solutions for various domains and platforms.
 
 
 # 📫 Contact Me
+
 <span>
     <a href="mailto:dtd21b@fsu.edu" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/daniel-dang-cs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/danieltdang" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </span>
 
-# 🛠 Skills/Frameworks
+# 🛠 Skills
+![](https://komarev.com/ghpvc/?username=danieltdang&style=for-the-badge)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-A179DC?style=for-the-badge&logo=c-sharp&logoColor=white)
